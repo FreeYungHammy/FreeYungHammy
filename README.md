@@ -9,7 +9,7 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FreeYungHammy&show_icons=true&theme=solarized-dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=FreeYungHammy&show_icons=true&theme=tokyonight" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight" />
