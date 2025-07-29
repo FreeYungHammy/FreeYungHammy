@@ -5,7 +5,7 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
 
 ## GitHub Stats
 
-![Calvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreeYungHammy&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreeYungHammy&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&langs_count=10&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=FreeYungHammy&theme=tokyonight)
 
