@@ -5,4 +5,6 @@ solutions through software development, automation and robotics. I thrive in env
 that value innovation, collaboration, and analytical thinking.
 
 ![Calvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreeYungHammy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&theme=radical&langs_count=8&hide=Jupyter Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&theme=radical&langs_count=8&hide=JupyterNotebook)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FreeYungHammy&theme=radical)
+
