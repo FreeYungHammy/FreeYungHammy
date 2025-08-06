@@ -15,11 +15,6 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=FreeYungHammy&theme=tokyonight" />
-    </td>
-  </tr>
 </table>
 
 ---
