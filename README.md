@@ -14,13 +14,7 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=tokyonight"/>
     </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=FreeYungHammy&theme=tokyonight"
-        alt="GitHub Streak"
-        loading="lazy"
-      />
-    </td>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=FreeYungHammy&theme=tokyonight)](https://streak-stats.demolab.com)
   </tr>
 </table>
 
