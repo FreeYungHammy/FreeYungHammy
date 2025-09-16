@@ -16,7 +16,11 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
     </td>
   </tr>
 </table>
+<div align="center">
 
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Artixowo&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+</div>
 ---
 
 ## Connect With Me
