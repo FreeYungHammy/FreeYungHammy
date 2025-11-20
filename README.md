@@ -28,7 +28,7 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/calvin-nijenhuis)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://github.com/FreeYungHammy)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)]([https://github.com/FreeYungHammy](https://freeyunghammy.github.io/CalvinNijenhuis_CV_Website/))
 <a href="mailto:calvin@nijenhuis.life">
   <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
 </a>
