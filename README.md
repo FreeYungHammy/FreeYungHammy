@@ -12,7 +12,7 @@ I'm a Bachelor of Computing student with a passion for building real-world, impa
       <img src="https://github-readme-stats.vercel.app/api?username=FreeYungHammy&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeYungHammy&layout=compact&langs_count=10&theme=tokyonight"/>
     </td>
   </tr>
 </table>
